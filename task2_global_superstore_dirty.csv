@@ -1,0 +1,904 @@
+Row ID,Order ID,Order Date,Country,Market,Region,Category,Sales,Quantity,Discount,Profit
+1,ORD-100000,25-08-2024,United States,Europe,East,Office Supplies,75.69,5,0.0,-3.18
+2,ORD-100001,17-08-2023,France,APAC,West,Furniture,200.97,2,0.2,62.05
+3,ORD-100002,23-10-2022,Canada,Europe,Central,Office Supplies,112.62,6,0.1,23.25
+4,ORD-100003,09-08-2022,United States,APAC,Central,Furniture,320.0,6,0.2,34.16
+5,ORD-100004,12-03-2022,Germany,EMEA,South,Furniture,486.78,5,0.1,116.79
+6,ORD-100005,18-11-2024,United Kingdom,APAC,East,Furniture,46.09,3,0.1,8.37
+7,ORD-100006,18-08-2022,United Kingdom,US,West,Furniture,71.52,5,0.0,13.84
+8,ORD-100007,28-06-2023,United States,EMEA,Central,Technology,176.49,1,0.3,14.94
+9,ORD-100008,21-08-2023,United States,US,West,Technology,483.86,3,0.1,-37.21
+10,ORD-100009,19-01-2023,France,APAC,West,Technology,,3,0.1,52.09
+11,ORD-100010,18-08-2022,Australia,APAC,East,Technology,374.09,3,0.5,87.73
+12,ORD-100011,02-11-2023,Australia,US,East,Technology,26.9,3,0.5,2.65
+13,ORD-100012,21-11-2024,Canada,APAC,East,Furniture,557.83,1,0.3,44.49
+14,ORD-100013,16-03-2023,France,Europe,East,Office Supplies,57.14,4,0.3,-1.16
+15,ORD-100014,04-11-2023,Germany,US,West,Furniture,110.86,4,0.1,15.89
+16,ORD-100015,26-09-2022,France,APAC,East,Furniture,105.58,1,0.0,0.04
+17,ORD-100016,30-04-2024,France,US,South,Office Supplies,177.6,3,0.3,-13.68
+18,ORD-100017,28-05-2022,Canada,EMEA,West,Office Supplies,69.98,6,0.0,-1.23
+19,ORD-100018,30-05-2022,Canada,EMEA,South,Office Supplies,40.07,7,0.0,-0.14
+20,ORD-100019,29-04-2024,France,Europe,South,Office Supplies,129.69,6,0.0,5.8
+21,ORD-100020,26-09-2022,Australia,US,East,Office Supplies,373.83,4,0.2,68.42
+22,ORD-100021,01-02-2022,Canada,APAC,East,Furniture,181.34,2,0.5,52.84
+23,ORD-100022,09-09-2022,India,US,West,Furniture,78.66,4,0.1,14.74
+24,ORD-100023,13-09-2024,France,Europe,West,Office Supplies,153.75,3,0.0,81.84
+25,ORD-100024,09-07-2022,France,APAC,West,Office Supplies,244.61,6,0.5,15.76
+26,ORD-100025,06-10-2024,India,US,East,Technology,320.39,7,0.5,54.92
+27,ORD-100026,04-09-2023,Canada,US,West,Furniture,40.74,7,0.0,8.91
+28,ORD-100027,07-09-2023,France,Europe,West,Technology,127.07,2,0.0,7.3
+29,ORD-100028,06-08-2023,Australia,APAC,South,Office Supplies,554.58,3,0.0,89.45
+30,ORD-100029,26-09-2022,Germany,EMEA,Central,Furniture,64.36,7,0.3,16.03
+31,ORD-100030,13-04-2024,India,US,South,Furniture,125.38,7,0.5,36.94
+32,ORD-100031,05-01-2023,Germany,US,East,Office Supplies,237.06,7,0.2,-10.44
+33,ORD-100032,29-03-2024,Germany,US,Central,Furniture,140.51,1,0.5,2.14
+34,ORD-100033,19-02-2023,France,Europe,West,Furniture,91.51,5,0.1,-10.67
+35,ORD-100034,18-07-2022,United States,US,Central,Technology,172.47,3,0.1,40.42
+36,ORD-100035,02-07-2024,United Kingdom,APAC,Central,Office Supplies,76.53,2,0.3,5.64
+37,ORD-100036,05-07-2022,Australia,Europe,East,Technology,35.85,4,0.0,8.96
+38,ORD-100037,23-11-2023,Australia,EMEA,South,Office Supplies,210.75,1,0.3,20.73
+39,ORD-100038,14-08-2022,Canada,EMEA,West,Furniture,501.04,7,0.0,137.17
+40,ORD-100039,11-07-2022,Canada,APAC,East,Office Supplies,496.2,1,0.2,7.31
+41,ORD-100040,,Germany,APAC,Central,Furniture,204.35,6,0.1,82.34
+42,ORD-100041,29-08-2023,Canada,EMEA,West,Office Supplies,343.49,7,0.3,22.52
+43,ORD-100042,25-07-2022,United Kingdom,APAC,Central,Office Supplies,108.48,4,0.3,24.43
+44,ORD-100043,19-05-2022,United States,US,Central,Office Supplies,33.28,4,0.5,-1.57
+45,ORD-100044,02-05-2024,Germany,US,West,Furniture,212.06,1,0.1,17.58
+46,ORD-100045,16-09-2023,India,APAC,West,Office Supplies,372.75,3,0.5,24.92
+47,ORD-100046,22-10-2022,Germany,US,Central,Office Supplies,619.35,2,0.2,170.09
+48,ORD-100047,06-04-2024,Germany,Europe,East,Technology,205.05,4,0.3,18.85
+49,ORD-100048,12-03-2023,India,US,South,Technology,238.97,2,0.3,85.29
+50,ORD-100049,27-05-2024,United States,US,South,Furniture,287.33,3,0.5,40.43
+51,ORD-100050,27-02-2023,Canada,US,West,Office Supplies,121.36,2,0.5,12.25
+52,ORD-100051,12-11-2023,India,US,South,Technology,271.91,7,0.1,2.44
+53,ORD-100052,13-11-2022,Canada,EMEA,South,Furniture,262.07,3,0.5,75.99
+54,ORD-100053,30-12-2024,United States,Europe,West,Office Supplies,169.18,6,0.5,19.51
+55,ORD-100054,23-10-2023,Australia,US,West,Office Supplies,363.61,1,0.3,1.54
+56,ORD-100055,29-04-2022,United Kingdom,Europe,West,Technology,254.46,7,0.2,73.66
+57,ORD-100056,01-08-2024,United Kingdom,US,Central,Technology,102.86,4,0.0,-8.43
+58,ORD-100057,02-10-2022,Australia,APAC,East,Technology,352.08,7,0.0,66.53
+59,ORD-100058,22-07-2024,Canada,EMEA,Central,Technology,182.15,4,0.0,18.5
+60,ORD-100059,01-04-2022,Germany,EMEA,East,Furniture,76.6,1,0.5,15.94
+61,ORD-100060,02-07-2024,Australia,US,South,Office Supplies,302.25,7,0.1,-15.07
+62,ORD-100061,30-04-2023,Canada,Europe,East,Furniture,227.06,4,0.0,31.52
+63,ORD-100062,15-11-2024,Canada,US,West,Office Supplies,30.85,3,0.1,0.45
+64,ORD-100063,02-12-2023,Germany,US,East,Furniture,150.73,6,0.3,9.58
+65,ORD-100064,26-12-2024,Germany,Europe,West,Technology,477.7,5,0.1,35.39
+66,ORD-100065,03-04-2023,India,Europe,East,Technology,61.96,5,0.0,3.68
+67,ORD-100066,10-09-2022,United Kingdom,APAC,South,Technology,43.69,3,0.0,12.25
+68,ORD-100067,02-08-2023,United States,EMEA,East,Furniture,145.25,7,0.2,32.72
+69,ORD-100068,19-08-2022,Germany,US,Central,Office Supplies,64.93,2,0.1,12.0
+70,ORD-100069,27-01-2024,,Europe,Central,Office Supplies,213.11,2,0.1,35.43
+71,ORD-100070,11-12-2023,Canada,US,East,Technology,88.26,1,0.3,37.8
+72,ORD-100071,19-03-2022,Australia,EMEA,South,Office Supplies,89.47,6,0.3,5.0
+73,ORD-100072,12-06-2022,United Kingdom,EMEA,South,Office Supplies,459.55,7,0.3,-2.08
+74,ORD-100073,11-09-2022,United Kingdom,EMEA,Central,Furniture,77.92,6,0.1,7.39
+75,ORD-100074,26-06-2024,France,EMEA,East,Furniture,138.04,4,0.0,28.97
+76,ORD-100075,03-07-2023,Australia,US,Central,Office Supplies,67.29,1,0.5,1.01
+77,ORD-100076,26-04-2023,France,Europe,East,Furniture,283.55,6,0.2,3.61
+78,ORD-100077,17-10-2022,Canada,EMEA,East,Office Supplies,51.67,6,0.5,-1.73
+79,ORD-100078,23-08-2023,India,Europe,West,Technology,91.21,5,0.1,15.98
+80,ORD-100079,07-02-2024,Canada,EMEA,South,Technology,279.23,5,0.0,53.54
+81,ORD-100080,19-09-2024,United States,US,East,Technology,517.41,2,0.2,176.23
+82,ORD-100081,17-03-2024,India,APAC,West,Technology,276.1,3,0.1,38.72
+83,ORD-100082,18-01-2023,United States,Europe,South,Office Supplies,144.77,6,0.2,16.63
+84,ORD-100083,03-11-2023,United Kingdom,US,Central,Furniture,81.03,2,0.1,-1.64
+85,ORD-100084,01-12-2023,United States,US,East,Technology,283.16,3,0.1,96.88
+86,ORD-100085,26-10-2023,France,EMEA,Central,Technology,63.49,2,0.1,7.54
+87,ORD-100086,26-05-2024,Canada,APAC,West,Furniture,220.22,5,0.1,69.3
+88,ORD-100087,24-12-2023,France,EMEA,West,Office Supplies,190.05,2,0.3,13.62
+89,ORD-100088,14-12-2024,Canada,APAC,East,Office Supplies,331.64,1,0.5,19.73
+90,ORD-100089,24-10-2023,France,US,Central,Office Supplies,76.08,4,0.0,7.12
+91,ORD-100090,23-01-2022,France,EMEA,Central,Furniture,234.46,5,0.2,10.48
+92,ORD-100091,04-04-2022,Germany,EMEA,West,Technology,347.34,3,0.0,7.58
+93,ORD-100092,24-09-2022,United Kingdom,APAC,Central,Office Supplies,128.55,2,0.0,4.9
+94,ORD-100093,21-07-2023,United Kingdom,EMEA,Central,Technology,154.22,6,0.0,18.61
+95,ORD-100094,,United States,US,East,Office Supplies,146.73,1,0.0,-17.02
+96,ORD-100095,19-03-2023,India,US,West,Office Supplies,274.09,4,0.3,20.78
+97,ORD-100096,12-08-2022,United States,Europe,Central,Furniture,262.08,1,0.1,65.16
+98,ORD-100097,25-11-2024,United States,EMEA,Central,Office Supplies,101.11,7,0.5,11.78
+99,ORD-100098,07-02-2024,Germany,APAC,East,Office Supplies,39.13,4,0.3,7.78
+100,ORD-100099,19-07-2023,United States,EMEA,East,Technology,333.02,5,0.0,84.44
+101,ORD-100100,01-04-2023,Germany,EMEA,West,Office Supplies,299.11,5,0.2,81.88
+102,ORD-100101,19-08-2022,United States,US,South,Technology,219.69,3,0.3,31.94
+103,ORD-100102,28-10-2023,Australia,US,Central,Furniture,202.42,4,0.0,69.71
+104,ORD-100103,03-07-2023,United Kingdom,US,South,Furniture,254.78,5,0.0,6.65
+105,ORD-100104,06-12-2022,France,Europe,West,Furniture,113.69,3,0.0,24.29
+106,ORD-100105,26-06-2024,United Kingdom,US,South,Furniture,54.71,4,0.1,17.18
+107,ORD-100106,24-01-2023,India,US,South,Technology,669.18,5,0.3,43.01
+108,ORD-100107,07-07-2023,Germany,Europe,South,Office Supplies,194.26,3,0.3,11.13
+109,ORD-100108,27-12-2022,Canada,Europe,Central,Technology,362.7,5,0.0,-30.44
+110,ORD-100109,23-08-2023,United Kingdom,Europe,South,Office Supplies,237.7,2,0.1,-10.51
+111,ORD-100110,28-12-2024,Australia,EMEA,South,Furniture,96.95,2,0.3,15.39
+112,ORD-100111,09-08-2023,France,Europe,Central,Technology,350.7,2,0.3,143.52
+113,ORD-100112,23-05-2023,Germany,US,South,Technology,511.62,3,0.0,147.78
+114,ORD-100113,08-11-2022,France,US,Central,Office Supplies,226.97,3,0.2,8.13
+115,ORD-100114,15-03-2023,Australia,US,Central,Office Supplies,275.11,1,0.2,-25.57
+116,ORD-100115,25-12-2024,India,Europe,West,Technology,91.49,1,0.2,19.88
+117,ORD-100116,12-05-2022,Australia,Europe,West,Furniture,696.71,1,0.0,90.88
+118,ORD-100117,14-02-2023,United Kingdom,US,South,Office Supplies,872.39,5,0.1,52.92
+119,ORD-100118,28-12-2023,United Kingdom,EMEA,West,Furniture,32.66,2,0.3,-2.49
+120,ORD-100119,14-01-2022,United Kingdom,EMEA,Central,Office Supplies,459.76,5,0.1,90.74
+121,ORD-100120,04-09-2023,Australia,APAC,East,Office Supplies,252.0,4,0.0,-62.99
+122,ORD-100121,06-12-2022,India,Europe,Central,Technology,141.55,4,0.0,24.0
+123,ORD-100122,09-02-2024,Australia,Europe,East,Furniture,150.18,6,0.0,-2.65
+124,ORD-100123,13-07-2023,Canada,Europe,Central,Office Supplies,150.86,4,0.1,6.34
+125,ORD-100124,04-08-2023,France,Europe,West,Technology,262.64,1,0.0,54.71
+126,ORD-100125,11-10-2024,Australia,EMEA,South,Office Supplies,263.28,7,0.0,49.98
+127,ORD-100126,22-12-2023,Canada,APAC,Central,Office Supplies,320.37,1,0.1,-18.03
+128,ORD-100127,02-07-2023,Canada,EMEA,West,Office Supplies,48.27,4,0.0,6.47
+129,ORD-100128,26-11-2023,United States,Europe,West,Office Supplies,72.97,3,0.3,-2.81
+130,ORD-100129,17-03-2024,Germany,US,East,Furniture,56.3,5,0.5,-2.86
+131,ORD-100130,12-04-2022,Australia,Europe,South,Furniture,127.06,3,0.1,5.3
+132,ORD-100131,26-05-2024,United States,Europe,Central,Office Supplies,146.18,3,0.2,27.01
+133,ORD-100132,11-12-2024,India,Europe,Central,Office Supplies,174.52,6,0.3,14.33
+134,ORD-100133,28-06-2022,Germany,Europe,West,Office Supplies,41.34,3,0.3,1.15
+135,ORD-100134,03-04-2024,United States,EMEA,South,Furniture,273.2,7,0.5,-32.04
+136,ORD-100135,03-06-2024,Germany,EMEA,East,Furniture,208.34,3,0.1,12.8
+137,ORD-100136,25-04-2023,Australia,Europe,South,Technology,457.01,4,0.1,67.71
+138,ORD-100137,09-05-2023,United States,US,East,Technology,113.14,2,0.1,-0.62
+139,ORD-100138,16-11-2022,United States,EMEA,West,Furniture,268.12,4,0.3,28.11
+140,ORD-100139,14-07-2024,United Kingdom,APAC,South,Technology,211.11,7,0.0,34.48
+141,ORD-100140,24-02-2023,France,EMEA,West,Technology,62.72,1,0.2,4.61
+142,ORD-100141,03-04-2023,India,APAC,East,Furniture,79.69,1,0.1,12.07
+143,ORD-100142,14-11-2022,Germany,US,Central,Furniture,261.51,3,0.2,55.18
+144,ORD-100143,14-08-2023,Canada,EMEA,West,Technology,46.53,3,0.2,4.13
+145,ORD-100144,16-11-2024,Australia,APAC,West,Furniture,152.29,6,0.2,28.67
+146,ORD-100145,21-10-2022,India,US,East,Technology,164.51,6,0.0,12.17
+147,ORD-100146,29-01-2024,United Kingdom,Europe,West,Furniture,346.43,3,0.0,113.64
+148,ORD-100147,01-06-2023,Canada,Europe,West,Office Supplies,177.6,6,0.3,35.24
+149,ORD-100148,09-09-2024,,US,Central,Furniture,136.52,2,0.5,37.02
+150,ORD-100149,,United States,Europe,West,Office Supplies,96.71,2,0.2,3.82
+151,ORD-100150,11-02-2022,United Kingdom,APAC,Central,Furniture,176.71,5,0.5,40.59
+152,ORD-100151,15-02-2024,Germany,US,West,Furniture,237.78,4,0.2,13.45
+153,ORD-100152,13-09-2024,France,Europe,South,Technology,368.12,2,0.2,51.96
+154,ORD-100153,29-01-2023,France,APAC,West,Technology,142.48,4,0.3,18.22
+155,ORD-100154,08-12-2024,United States,US,South,Office Supplies,152.94,7,0.5,32.03
+156,ORD-100155,13-12-2022,Germany,APAC,South,Office Supplies,66.91,5,0.5,6.07
+157,ORD-100156,02-05-2022,Canada,US,East,Technology,141.73,3,0.2,4.87
+158,ORD-100157,16-05-2024,Australia,APAC,East,Technology,617.58,3,0.0,-45.91
+159,ORD-100158,19-06-2022,France,US,South,Office Supplies,464.93,4,0.3,175.25
+160,ORD-100159,13-11-2024,India,APAC,Central,Technology,96.96,2,0.1,10.44
+161,ORD-100160,07-03-2022,France,APAC,Central,Office Supplies,90.82,3,0.1,2.08
+162,ORD-100161,02-10-2023,Canada,Europe,East,Office Supplies,23.18,4,0.3,-1.06
+163,ORD-100162,29-05-2022,Germany,APAC,East,Furniture,703.93,5,0.2,95.98
+164,ORD-100163,30-12-2024,Australia,EMEA,West,Furniture,514.59,7,0.5,86.01
+165,ORD-100164,,Germany,Europe,West,Furniture,113.88,2,0.2,32.53
+166,ORD-100165,11-02-2023,United Kingdom,US,East,Technology,160.23,5,0.5,9.55
+167,ORD-100166,05-08-2023,United Kingdom,APAC,South,Office Supplies,113.9,1,0.5,-0.36
+168,ORD-100167,09-11-2024,United Kingdom,APAC,East,Office Supplies,198.42,4,0.1,14.73
+169,ORD-100168,15-02-2023,Germany,EMEA,East,Technology,87.7,5,0.0,19.2
+170,ORD-100169,09-01-2024,France,US,South,Office Supplies,133.67,3,0.2,28.87
+171,ORD-100170,28-01-2022,Germany,US,West,Technology,425.97,6,0.5,46.88
+172,ORD-100171,,Germany,Europe,East,Furniture,77.63,6,0.0,10.43
+173,ORD-100172,18-09-2024,France,Europe,West,Office Supplies,190.97,2,0.2,18.41
+174,ORD-100173,19-01-2024,United Kingdom,APAC,West,Technology,346.09,3,0.1,73.4
+175,ORD-100174,29-10-2023,Canada,EMEA,Central,Technology,320.88,2,0.0,10.86
+176,ORD-100175,09-08-2022,France,Europe,South,Technology,120.46,2,0.0,7.64
+177,ORD-100176,17-01-2024,Germany,EMEA,West,Furniture,125.36,6,0.5,31.31
+178,ORD-100177,07-07-2022,Germany,APAC,East,Technology,50.59,5,0.3,5.45
+179,ORD-100178,07-04-2023,Australia,US,East,Office Supplies,64.74,3,0.2,7.7
+180,ORD-100179,27-12-2024,United States,EMEA,East,Furniture,254.5,7,0.2,12.58
+181,ORD-100180,01-02-2024,United States,Europe,East,Office Supplies,18.92,7,0.1,0.45
+182,ORD-100181,15-05-2024,Australia,US,South,Furniture,63.08,6,0.3,6.31
+183,ORD-100182,17-10-2024,Canada,Europe,South,Technology,243.41,3,0.5,86.86
+184,ORD-100183,07-08-2022,United States,EMEA,Central,Office Supplies,239.32,2,0.1,-7.47
+185,ORD-100184,11-09-2024,United States,US,South,Technology,344.59,1,0.1,7.67
+186,ORD-100185,22-05-2024,India,US,East,Office Supplies,123.8,2,0.3,13.09
+187,ORD-100186,07-12-2024,India,EMEA,South,Technology,54.91,3,0.1,1.82
+188,ORD-100187,02-02-2024,Canada,US,South,Furniture,230.82,6,0.3,83.08
+189,ORD-100188,20-07-2023,France,US,Central,Furniture,,6,0.1,4.55
+190,ORD-100189,28-06-2022,Australia,Europe,East,Furniture,120.3,4,0.5,6.75
+191,ORD-100190,12-11-2022,Canada,US,West,Office Supplies,136.3,4,0.0,6.73
+192,ORD-100191,02-02-2024,Canada,APAC,West,Office Supplies,248.96,2,0.3,18.21
+193,ORD-100192,19-03-2022,Germany,EMEA,South,Office Supplies,264.01,2,0.5,-4.28
+194,ORD-100193,12-07-2024,United Kingdom,EMEA,West,Technology,55.74,2,0.5,4.3
+195,ORD-100194,12-04-2022,United States,EMEA,South,Technology,156.69,6,0.2,13.92
+196,ORD-100195,04-01-2023,India,APAC,South,Technology,186.64,6,0.5,31.4
+197,ORD-100196,23-10-2024,Australia,APAC,East,Furniture,65.69,6,0.2,5.06
+198,ORD-100197,13-01-2024,India,EMEA,South,Furniture,145.82,3,0.2,19.95
+199,ORD-100198,24-04-2024,,Europe,West,Office Supplies,311.7,5,0.3,96.96
+200,ORD-100199,11-03-2022,United States,APAC,South,Technology,121.39,3,0.2,16.66
+201,ORD-100200,23-03-2022,United States,APAC,South,Office Supplies,149.38,4,0.3,16.28
+202,ORD-100201,11-05-2022,India,EMEA,West,Technology,88.92,4,0.2,-2.35
+203,ORD-100202,19-02-2022,Australia,EMEA,East,Office Supplies,233.87,4,0.2,-10.4
+204,ORD-100203,21-09-2024,France,US,East,Office Supplies,79.72,5,0.3,-3.42
+205,ORD-100204,12-11-2023,India,APAC,West,Office Supplies,103.9,7,0.0,13.44
+206,ORD-100205,05-09-2024,Canada,EMEA,Central,Office Supplies,259.25,4,0.3,47.82
+207,ORD-100206,26-07-2022,Australia,Europe,Central,Technology,45.02,4,0.1,3.94
+208,ORD-100207,13-06-2024,United States,EMEA,Central,Furniture,195.75,2,0.2,30.58
+209,ORD-100208,30-10-2023,United States,EMEA,West,Technology,137.98,2,0.3,46.28
+210,ORD-100209,23-04-2022,Germany,EMEA,West,Furniture,,1,0.2,1.97
+211,ORD-100210,02-01-2022,France,Europe,South,Office Supplies,346.18,6,0.5,-34.1
+212,ORD-100211,04-02-2024,Australia,EMEA,Central,Office Supplies,123.94,5,0.2,40.38
+213,ORD-100212,07-02-2022,United States,US,Central,Furniture,296.36,7,0.0,9.81
+214,ORD-100213,17-07-2024,France,US,West,Furniture,214.05,5,0.5,19.5
+215,ORD-100214,14-04-2024,Germany,APAC,East,Office Supplies,243.22,2,0.1,59.55
+216,ORD-100215,,Australia,Europe,West,Technology,217.04,3,0.1,19.3
+217,ORD-100216,18-02-2024,United States,US,Central,Technology,137.93,6,0.0,44.05
+218,ORD-100217,09-09-2024,Germany,APAC,East,Furniture,161.96,3,0.1,0.61
+219,ORD-100218,09-08-2024,Australia,Europe,West,Furniture,237.54,6,0.5,-4.48
+220,ORD-100219,27-04-2024,Australia,US,West,Technology,155.27,2,0.1,-15.54
+221,ORD-100220,30-12-2024,,Europe,East,Office Supplies,288.79,7,0.1,72.52
+222,ORD-100221,13-09-2024,United States,Europe,West,Technology,249.78,4,0.1,-17.07
+223,ORD-100222,16-07-2023,Germany,US,East,Office Supplies,197.1,5,0.3,32.42
+224,ORD-100223,13-06-2022,India,APAC,South,Furniture,,6,0.3,-0.01
+225,ORD-100224,17-10-2023,India,EMEA,West,Technology,,7,0.1,44.16
+226,ORD-100225,13-06-2024,France,US,West,Technology,162.75,2,0.5,15.33
+227,ORD-100226,11-03-2023,Canada,APAC,Central,Furniture,81.5,5,0.0,-3.19
+228,ORD-100227,15-11-2022,Germany,Europe,Central,Technology,83.52,1,0.3,4.48
+229,ORD-100228,27-12-2023,United States,Europe,East,Office Supplies,305.48,7,0.5,16.15
+230,ORD-100229,25-04-2022,United Kingdom,Europe,East,Furniture,353.74,7,0.3,26.59
+231,ORD-100230,19-10-2024,Germany,Europe,East,Technology,157.24,1,0.5,29.83
+232,ORD-100231,14-01-2023,Australia,Europe,West,Technology,280.28,6,0.5,-0.68
+233,ORD-100232,12-01-2022,India,APAC,Central,Technology,262.72,4,0.1,6.48
+234,ORD-100233,06-04-2023,India,Europe,West,Office Supplies,361.1,6,0.3,52.94
+235,ORD-100234,28-05-2022,Germany,APAC,Central,Office Supplies,237.87,2,0.1,21.33
+236,ORD-100235,06-02-2022,Canada,US,Central,Office Supplies,280.59,4,0.1,2.58
+237,ORD-100236,12-11-2023,Canada,US,South,Office Supplies,328.72,1,0.1,103.91
+238,ORD-100237,28-07-2024,United States,Europe,South,Office Supplies,203.03,1,0.1,35.97
+239,ORD-100238,21-04-2024,United States,US,Central,Office Supplies,77.43,7,0.1,17.17
+240,ORD-100239,24-11-2022,Germany,APAC,Central,Furniture,198.55,3,0.2,56.76
+241,ORD-100240,30-11-2024,India,EMEA,South,Technology,308.68,5,0.2,27.36
+242,ORD-100241,16-10-2023,France,APAC,Central,Furniture,250.35,6,0.5,37.26
+243,ORD-100242,23-04-2022,United States,EMEA,East,Furniture,94.09,2,0.1,32.06
+244,ORD-100243,04-09-2023,United Kingdom,EMEA,Central,Office Supplies,285.25,1,0.2,-33.08
+245,ORD-100244,15-08-2024,Australia,APAC,South,Office Supplies,587.08,4,0.2,121.14
+246,ORD-100245,14-05-2023,Germany,APAC,East,Technology,64.28,1,0.1,17.36
+247,ORD-100246,18-12-2024,Canada,US,South,Furniture,255.06,4,0.0,53.57
+248,ORD-100247,24-06-2023,Australia,Europe,South,Furniture,340.83,5,0.0,18.94
+249,ORD-100248,20-07-2023,Germany,APAC,South,Office Supplies,117.82,7,0.5,18.99
+250,ORD-100249,15-03-2023,Germany,Europe,South,Furniture,83.27,1,0.1,17.9
+251,ORD-100250,29-08-2024,India,APAC,West,Furniture,202.34,7,0.1,-3.0
+252,ORD-100251,12-10-2022,Germany,US,East,Office Supplies,160.23,1,0.5,53.77
+253,ORD-100252,13-09-2023,Australia,Europe,West,Office Supplies,149.22,7,0.1,22.43
+254,ORD-100253,27-11-2024,France,APAC,West,Office Supplies,56.38,5,0.2,11.16
+255,ORD-100254,21-09-2023,France,Europe,Central,Office Supplies,112.55,3,0.1,28.21
+256,ORD-100255,30-05-2022,France,EMEA,Central,Technology,227.77,5,0.3,42.47
+257,ORD-100256,27-07-2023,United States,APAC,East,Furniture,274.07,7,0.5,82.07
+258,ORD-100257,05-08-2023,India,Europe,East,Office Supplies,56.89,4,0.5,5.42
+259,ORD-100258,22-11-2022,Australia,EMEA,South,Furniture,16.84,4,0.0,5.74
+260,ORD-100259,10-02-2023,Australia,APAC,East,Technology,186.15,7,0.3,63.94
+261,ORD-100260,24-06-2022,India,APAC,Central,Technology,180.13,2,0.2,10.42
+262,ORD-100261,04-11-2022,Australia,APAC,Central,Furniture,134.46,6,0.5,18.64
+263,ORD-100262,19-03-2023,United States,EMEA,West,Office Supplies,74.26,4,0.0,-0.53
+264,ORD-100263,07-09-2022,United Kingdom,Europe,West,Technology,175.32,7,0.5,31.99
+265,ORD-100264,09-07-2022,France,EMEA,West,Office Supplies,122.26,5,0.5,1.11
+266,ORD-100265,15-02-2023,Germany,US,South,Furniture,276.48,6,0.5,47.21
+267,ORD-100266,24-08-2023,United States,US,South,Technology,99.94,4,0.3,-5.78
+268,ORD-100267,15-04-2023,France,APAC,East,Furniture,717.19,1,0.2,63.64
+269,ORD-100268,08-04-2023,India,US,Central,Technology,68.62,5,0.5,9.92
+270,ORD-100269,26-03-2022,India,US,South,Office Supplies,70.49,7,0.1,-15.88
+271,ORD-100270,13-11-2022,India,Europe,South,Furniture,310.1,7,0.1,23.84
+272,ORD-100271,10-06-2023,United States,US,Central,Technology,122.93,3,0.3,25.29
+273,ORD-100272,18-07-2023,United States,APAC,West,Furniture,103.6,2,0.3,7.69
+274,ORD-100273,02-04-2024,Germany,US,East,Technology,361.54,6,0.0,32.13
+275,ORD-100274,20-07-2022,France,EMEA,West,Technology,176.68,7,0.0,3.72
+276,ORD-100275,08-03-2024,Canada,EMEA,South,Furniture,132.94,3,0.2,43.79
+277,ORD-100276,22-05-2024,Australia,EMEA,West,Furniture,86.32,5,0.1,17.95
+278,ORD-100277,05-08-2024,Germany,US,Central,Furniture,272.27,1,0.2,19.18
+279,ORD-100278,02-10-2023,United States,US,West,Technology,94.68,2,0.2,12.32
+280,ORD-100279,01-07-2022,Canada,US,East,Technology,586.0,3,0.0,230.24
+281,ORD-100280,05-01-2022,Germany,EMEA,South,Office Supplies,168.86,3,0.1,21.76
+282,ORD-100281,29-03-2022,Germany,Europe,South,Office Supplies,106.85,4,0.1,13.4
+283,ORD-100282,13-02-2023,United Kingdom,US,East,Office Supplies,55.31,6,0.1,17.17
+284,ORD-100283,09-01-2024,Canada,EMEA,Central,Office Supplies,574.29,2,0.2,-93.42
+285,ORD-100284,27-09-2024,Germany,EMEA,West,Furniture,183.59,4,0.1,22.65
+286,ORD-100285,09-12-2023,Germany,APAC,South,Furniture,80.61,5,0.2,27.45
+287,ORD-100286,08-04-2022,France,EMEA,West,Office Supplies,522.68,3,0.0,91.82
+288,ORD-100287,19-06-2023,United States,APAC,Central,Technology,148.3,3,0.0,19.3
+289,ORD-100288,28-07-2024,Germany,EMEA,East,Technology,123.7,7,0.0,2.34
+290,ORD-100289,12-08-2022,India,APAC,South,Technology,112.68,6,0.0,11.3
+291,ORD-100290,03-10-2022,United Kingdom,APAC,South,Office Supplies,180.12,7,0.5,63.23
+292,ORD-100291,21-04-2023,United Kingdom,Europe,South,Furniture,433.18,4,0.5,4.08
+293,ORD-100292,22-12-2024,France,APAC,South,Furniture,178.92,7,0.5,18.89
+294,ORD-100293,19-07-2024,United Kingdom,US,West,Technology,209.35,7,0.2,21.39
+295,ORD-100294,21-02-2022,United Kingdom,US,East,Technology,114.1,1,0.0,29.08
+296,ORD-100295,29-01-2024,Germany,EMEA,Central,Technology,50.58,2,0.1,-0.46
+297,ORD-100296,18-04-2022,United Kingdom,EMEA,South,Furniture,118.43,3,0.5,44.1
+298,ORD-100297,31-03-2023,Germany,Europe,South,Technology,465.64,4,0.3,-116.38
+299,ORD-100298,28-10-2022,India,US,Central,Technology,292.88,1,0.2,-8.08
+300,ORD-100299,12-04-2023,Australia,US,West,Furniture,389.22,6,0.0,27.53
+301,ORD-100300,12-07-2024,Germany,EMEA,East,Furniture,207.18,7,0.0,70.59
+302,ORD-100301,02-12-2022,Germany,Europe,Central,Office Supplies,178.99,2,0.0,39.13
+303,ORD-100302,14-03-2024,Germany,US,South,Technology,172.57,3,0.0,2.95
+304,ORD-100303,17-10-2023,Australia,Europe,East,Furniture,119.7,6,0.1,1.44
+305,ORD-100304,27-12-2022,United States,APAC,East,Office Supplies,89.37,5,0.5,15.74
+306,ORD-100305,15-04-2023,Germany,US,East,Office Supplies,57.83,7,0.3,18.49
+307,ORD-100306,21-12-2024,United Kingdom,APAC,Central,Furniture,157.22,3,0.1,50.86
+308,ORD-100307,17-07-2023,India,Europe,West,Office Supplies,53.09,2,0.3,0.58
+309,ORD-100308,04-12-2023,France,EMEA,West,Furniture,194.23,5,0.5,13.39
+310,ORD-100309,12-05-2022,India,US,Central,Office Supplies,84.24,5,0.0,-5.38
+311,ORD-100310,10-07-2022,United States,APAC,East,Furniture,361.14,2,0.1,57.5
+312,ORD-100311,07-04-2024,France,US,East,Technology,271.97,4,0.0,25.59
+313,ORD-100312,04-04-2023,France,Europe,South,Office Supplies,164.84,3,0.1,8.63
+314,ORD-100313,07-04-2022,United Kingdom,US,West,Furniture,67.84,5,0.2,4.55
+315,ORD-100314,14-08-2024,United Kingdom,EMEA,East,Technology,127.9,6,0.1,32.26
+316,ORD-100315,09-04-2024,India,US,East,Technology,219.46,6,0.0,46.35
+317,ORD-100316,01-12-2024,France,APAC,West,Office Supplies,140.69,5,0.3,-9.02
+318,ORD-100317,03-11-2022,United States,Europe,South,Technology,138.24,5,0.0,-4.77
+319,ORD-100318,,United States,APAC,South,Technology,244.32,4,0.2,4.66
+320,ORD-100319,08-03-2023,France,EMEA,West,Technology,140.56,3,0.2,0.07
+321,ORD-100320,24-06-2023,United States,US,West,Office Supplies,141.42,2,0.3,-19.63
+322,ORD-100321,23-01-2023,United States,APAC,Central,Technology,131.35,7,0.5,24.14
+323,ORD-100322,30-11-2023,United States,EMEA,South,Furniture,149.28,5,0.2,8.85
+324,ORD-100323,26-09-2023,India,US,Central,Furniture,240.89,3,0.0,-20.38
+325,ORD-100324,13-12-2023,France,Europe,South,Furniture,321.33,3,0.3,16.83
+326,ORD-100325,02-02-2024,Australia,US,West,Office Supplies,223.16,4,0.2,19.93
+327,ORD-100326,18-09-2024,United States,APAC,Central,Office Supplies,347.11,5,0.1,101.2
+328,ORD-100327,19-07-2024,United Kingdom,APAC,Central,Furniture,108.68,5,0.3,15.98
+329,ORD-100328,25-06-2022,Germany,US,South,Furniture,419.34,6,0.5,-82.63
+330,ORD-100329,16-03-2022,India,APAC,South,Office Supplies,70.96,7,0.1,12.4
+331,ORD-100330,11-08-2024,Australia,EMEA,East,Technology,138.42,2,0.1,-13.3
+332,ORD-100331,14-09-2024,Australia,APAC,Central,Office Supplies,284.74,6,0.0,16.72
+333,ORD-100332,26-06-2022,France,EMEA,West,Furniture,181.79,5,0.0,-14.03
+334,ORD-100333,07-03-2023,India,US,South,Office Supplies,86.95,1,0.5,-3.88
+335,ORD-100334,29-05-2023,India,EMEA,South,Furniture,256.08,3,0.3,21.9
+336,ORD-100335,28-06-2023,Canada,EMEA,West,Technology,276.3,3,0.3,16.23
+337,ORD-100336,18-10-2023,United Kingdom,Europe,Central,Technology,189.5,6,0.1,17.42
+338,ORD-100337,17-02-2024,United States,APAC,West,Furniture,105.26,1,0.2,-3.97
+339,ORD-100338,13-08-2022,,Europe,East,Office Supplies,96.43,4,0.5,1.66
+340,ORD-100339,09-09-2023,Germany,Europe,Central,Technology,82.2,3,0.5,1.93
+341,ORD-100340,31-08-2024,France,EMEA,Central,Office Supplies,87.28,5,0.3,11.45
+342,ORD-100341,01-09-2024,Australia,EMEA,East,Technology,75.95,4,0.1,8.07
+343,ORD-100342,21-02-2023,Australia,EMEA,East,Technology,353.9,7,0.5,-28.95
+344,ORD-100343,20-11-2024,Australia,Europe,East,Furniture,341.95,5,0.1,6.67
+345,ORD-100344,18-02-2022,France,EMEA,Central,Office Supplies,55.79,4,0.2,9.96
+346,ORD-100345,17-06-2024,Canada,Europe,West,Technology,34.12,6,0.2,2.41
+347,ORD-100346,29-04-2022,Germany,EMEA,West,Office Supplies,300.44,1,0.3,53.07
+348,ORD-100347,21-01-2023,India,Europe,Central,Office Supplies,318.52,1,0.0,10.48
+349,ORD-100348,02-02-2022,Germany,Europe,East,Office Supplies,78.2,5,0.2,7.1
+350,ORD-100349,07-02-2024,Germany,US,West,Office Supplies,63.35,7,0.5,7.73
+351,ORD-100350,08-01-2022,France,APAC,East,Office Supplies,62.4,7,0.2,-0.75
+352,ORD-100351,15-11-2022,United Kingdom,APAC,Central,Office Supplies,155.96,1,0.5,14.27
+353,ORD-100352,01-02-2022,United States,APAC,South,Technology,72.39,3,0.1,1.81
+354,ORD-100353,25-11-2022,Canada,US,West,Office Supplies,341.49,4,0.0,75.98
+355,ORD-100354,30-04-2023,United Kingdom,US,Central,Furniture,168.65,3,0.5,52.45
+356,ORD-100355,13-12-2023,France,APAC,West,Office Supplies,91.61,6,0.0,10.57
+357,ORD-100356,,Germany,US,Central,Furniture,409.31,3,0.0,58.38
+358,ORD-100357,27-04-2024,France,US,West,Office Supplies,236.66,7,0.3,28.11
+359,ORD-100358,12-01-2023,Germany,EMEA,East,Office Supplies,397.37,5,0.5,24.49
+360,ORD-100359,22-03-2024,United Kingdom,US,South,Office Supplies,263.33,4,0.5,91.1
+361,ORD-100360,29-07-2024,Germany,EMEA,West,Office Supplies,388.24,4,0.0,61.92
+362,ORD-100361,12-05-2024,United Kingdom,APAC,South,Furniture,444.8,5,0.0,36.66
+363,ORD-100362,19-10-2024,India,US,East,Furniture,129.37,2,0.3,6.05
+364,ORD-100363,,United Kingdom,EMEA,East,Office Supplies,135.77,7,0.3,19.37
+365,ORD-100364,21-11-2023,Germany,US,West,Furniture,78.97,1,0.5,6.79
+366,ORD-100365,19-05-2022,Germany,APAC,South,Technology,176.11,3,0.2,30.4
+367,ORD-100366,23-02-2023,United Kingdom,Europe,Central,Office Supplies,93.86,3,0.3,58.02
+368,ORD-100367,09-05-2024,Germany,Europe,East,Technology,340.98,5,0.2,-8.62
+369,ORD-100368,12-07-2023,Australia,APAC,Central,Office Supplies,69.49,6,0.2,3.17
+370,ORD-100369,12-10-2023,France,US,West,Office Supplies,277.39,1,0.0,23.41
+371,ORD-100370,10-10-2022,Germany,Europe,West,Furniture,217.8,3,0.3,36.79
+372,ORD-100371,08-10-2022,Australia,APAC,East,Technology,165.11,7,0.1,44.44
+373,ORD-100372,18-05-2023,France,APAC,South,Technology,33.16,6,0.1,2.56
+374,ORD-100373,05-10-2024,United Kingdom,Europe,South,Office Supplies,160.84,5,0.2,33.11
+375,ORD-100374,17-12-2023,France,EMEA,East,Office Supplies,74.3,3,0.2,9.16
+376,ORD-100375,30-03-2024,United Kingdom,US,East,Furniture,253.32,6,0.5,11.34
+377,ORD-100376,26-02-2023,United Kingdom,US,Central,Furniture,167.52,4,0.1,-6.27
+378,ORD-100377,20-09-2022,France,APAC,Central,Furniture,56.14,4,0.2,7.4
+379,ORD-100378,08-04-2024,France,US,West,Technology,536.75,6,0.2,55.61
+380,ORD-100379,16-08-2022,Germany,APAC,East,Technology,329.18,7,0.3,37.73
+381,ORD-100380,14-09-2024,Australia,Europe,South,Technology,216.53,3,0.0,40.84
+382,ORD-100381,24-04-2022,,EMEA,Central,Furniture,98.92,2,0.1,19.81
+383,ORD-100382,17-10-2023,Germany,Europe,West,Furniture,71.18,7,0.5,13.02
+384,ORD-100383,01-01-2024,India,US,East,Office Supplies,133.63,4,0.0,-7.34
+385,ORD-100384,03-10-2024,Australia,EMEA,West,Technology,565.61,7,0.2,86.79
+386,ORD-100385,11-07-2022,United States,APAC,Central,Office Supplies,181.28,2,0.0,14.89
+387,ORD-100386,02-04-2024,Canada,US,South,Furniture,111.31,5,0.5,30.83
+388,ORD-100387,27-08-2022,,Europe,Central,Furniture,210.9,6,0.5,45.36
+389,ORD-100388,28-08-2022,Germany,APAC,South,Technology,42.58,2,0.1,-0.58
+390,ORD-100389,15-12-2022,Canada,Europe,East,Technology,321.69,5,0.5,55.63
+391,ORD-100390,29-08-2023,Canada,Europe,East,Furniture,115.69,4,0.2,4.77
+392,ORD-100391,10-02-2024,Canada,EMEA,South,Furniture,165.24,2,0.1,40.75
+393,ORD-100392,19-04-2024,Canada,US,Central,Furniture,159.83,6,0.0,43.63
+394,ORD-100393,23-12-2022,Canada,Europe,South,Office Supplies,123.9,6,0.0,-10.8
+395,ORD-100394,15-07-2023,Australia,APAC,South,Technology,139.33,1,0.2,-5.44
+396,ORD-100395,07-03-2023,Canada,EMEA,West,Office Supplies,239.37,1,0.3,-2.36
+397,ORD-100396,09-02-2024,India,Europe,East,Technology,47.14,3,0.1,5.68
+398,ORD-100397,28-06-2023,Germany,Europe,Central,Technology,203.0,7,0.2,0.32
+399,ORD-100398,02-09-2024,Australia,US,West,Technology,52.14,3,0.0,4.52
+400,ORD-100399,20-01-2022,Canada,Europe,South,Technology,310.6,1,0.1,-44.6
+401,ORD-100400,26-12-2022,France,APAC,West,Office Supplies,202.73,7,0.2,17.37
+402,ORD-100401,29-12-2024,United Kingdom,EMEA,West,Furniture,443.08,1,0.0,30.34
+403,ORD-100402,18-06-2023,Australia,APAC,South,Technology,103.43,6,0.3,15.31
+404,ORD-100403,18-04-2024,Canada,APAC,Central,Technology,192.78,1,0.2,-16.03
+405,ORD-100404,26-02-2024,France,US,South,Furniture,348.63,4,0.3,52.18
+406,ORD-100405,13-02-2024,United States,EMEA,West,Technology,596.32,1,0.3,181.85
+407,ORD-100406,12-10-2024,India,EMEA,South,Furniture,41.85,2,0.1,15.84
+408,ORD-100407,03-11-2023,India,EMEA,South,Technology,186.21,3,0.2,14.48
+409,ORD-100408,16-02-2022,Canada,Europe,South,Technology,119.91,5,0.2,30.27
+410,ORD-100409,15-11-2023,India,US,East,Furniture,221.31,3,0.0,41.82
+411,ORD-100410,20-09-2023,United States,Europe,East,Furniture,167.41,4,0.3,13.1
+412,ORD-100411,10-04-2024,India,Europe,West,Furniture,94.55,1,0.2,12.01
+413,ORD-100412,11-01-2022,Australia,EMEA,South,Furniture,159.15,4,0.0,11.03
+414,ORD-100413,18-03-2022,Australia,Europe,East,Furniture,116.39,2,0.3,-10.49
+415,ORD-100414,08-03-2022,France,APAC,South,Furniture,253.87,5,0.0,27.51
+416,ORD-100415,03-07-2023,France,EMEA,East,Office Supplies,106.2,5,0.1,2.34
+417,ORD-100416,30-10-2024,Canada,EMEA,South,Technology,198.6,7,0.1,92.05
+418,ORD-100417,08-09-2023,Germany,US,South,Technology,135.44,7,0.3,21.72
+419,ORD-100418,,United States,EMEA,East,Office Supplies,223.98,6,0.3,56.29
+420,ORD-100419,03-04-2023,Canada,US,West,Furniture,36.06,5,0.0,8.3
+421,ORD-100420,23-12-2022,United States,US,West,Furniture,219.3,6,0.1,-2.82
+422,ORD-100421,04-05-2023,France,US,South,Office Supplies,128.36,5,0.5,19.76
+423,ORD-100422,15-09-2023,India,US,South,Office Supplies,184.56,3,0.1,-8.59
+424,ORD-100423,31-01-2024,Australia,EMEA,East,Office Supplies,107.68,7,0.0,13.29
+425,ORD-100424,27-03-2023,India,Europe,East,Office Supplies,160.96,5,0.0,-15.25
+426,ORD-100425,17-02-2023,,EMEA,South,Furniture,292.26,3,0.0,51.17
+427,ORD-100426,12-01-2022,Germany,US,East,Furniture,117.4,7,0.2,24.69
+428,ORD-100427,23-05-2023,Canada,US,West,Furniture,151.71,6,0.0,-18.82
+429,ORD-100428,06-07-2023,India,US,East,Technology,73.93,1,0.1,7.27
+430,ORD-100429,21-06-2023,Canada,APAC,South,Office Supplies,60.24,4,0.0,26.1
+431,ORD-100430,08-11-2023,Canada,Europe,South,Office Supplies,328.29,2,0.3,21.27
+432,ORD-100431,16-08-2024,United Kingdom,APAC,East,Office Supplies,169.54,1,0.1,43.22
+433,ORD-100432,05-10-2024,Canada,EMEA,Central,Furniture,24.55,7,0.1,4.29
+434,ORD-100433,09-09-2024,India,EMEA,South,Technology,86.04,6,0.0,6.52
+435,ORD-100434,03-05-2023,United States,APAC,South,Furniture,289.91,2,0.0,-9.3
+436,ORD-100435,08-05-2024,Germany,APAC,East,Technology,123.31,2,0.2,35.37
+437,ORD-100436,15-03-2024,France,US,West,Furniture,171.81,1,0.0,24.09
+438,ORD-100437,17-02-2023,United Kingdom,Europe,West,Office Supplies,426.26,3,0.3,69.85
+439,ORD-100438,19-11-2022,Australia,EMEA,Central,Furniture,95.53,5,0.5,7.51
+440,ORD-100439,19-01-2024,Canada,EMEA,Central,Office Supplies,234.54,7,0.0,20.41
+441,ORD-100440,27-08-2024,United Kingdom,US,West,Office Supplies,150.09,2,0.3,21.77
+442,ORD-100441,01-02-2022,United States,APAC,West,Office Supplies,264.03,1,0.0,-31.95
+443,ORD-100442,,Canada,EMEA,Central,Office Supplies,351.34,3,0.3,-53.5
+444,ORD-100443,12-07-2024,France,US,East,Office Supplies,160.78,4,0.3,-16.53
+445,ORD-100444,02-08-2023,,APAC,Central,Office Supplies,58.96,4,0.5,2.95
+446,ORD-100445,18-08-2024,France,APAC,South,Technology,208.93,7,0.0,22.79
+447,ORD-100446,29-11-2023,France,EMEA,West,Technology,212.69,6,0.2,-5.53
+448,ORD-100447,25-08-2022,Australia,Europe,West,Furniture,265.62,6,0.5,79.7
+449,ORD-100448,30-01-2023,Germany,Europe,Central,Office Supplies,408.34,5,0.5,8.58
+450,ORD-100449,,Canada,APAC,Central,Furniture,126.9,7,0.5,-7.72
+451,ORD-100450,01-05-2024,United Kingdom,Europe,West,Office Supplies,404.4,6,0.2,40.21
+452,ORD-100451,30-03-2022,United Kingdom,Europe,South,Furniture,78.79,3,0.5,2.01
+453,ORD-100452,29-09-2022,United Kingdom,APAC,Central,Furniture,187.99,6,0.5,25.46
+454,ORD-100453,17-07-2023,Canada,Europe,Central,Office Supplies,130.14,5,0.1,3.87
+455,ORD-100454,05-11-2022,United Kingdom,Europe,West,Office Supplies,120.82,2,0.2,16.61
+456,ORD-100455,05-09-2023,India,APAC,West,Furniture,176.44,2,0.5,16.31
+457,ORD-100456,15-11-2022,United Kingdom,APAC,East,Furniture,277.15,6,0.2,60.61
+458,ORD-100457,18-07-2024,United States,APAC,South,Furniture,225.9,5,0.2,17.06
+459,ORD-100458,29-05-2023,Canada,APAC,East,Furniture,223.78,2,0.2,2.56
+460,ORD-100459,08-01-2023,Australia,EMEA,South,Furniture,86.9,1,0.3,4.3
+461,ORD-100460,23-02-2024,Canada,Europe,East,Technology,184.13,7,0.1,-24.6
+462,ORD-100461,02-11-2022,Australia,EMEA,East,Furniture,547.2,1,0.1,117.59
+463,ORD-100462,30-03-2023,United States,EMEA,South,Technology,323.32,6,0.5,53.05
+464,ORD-100463,06-02-2023,Germany,Europe,South,Furniture,194.5,3,0.3,-5.25
+465,ORD-100464,11-11-2024,Canada,Europe,Central,Furniture,389.08,7,0.0,8.27
+466,ORD-100465,10-12-2022,France,Europe,South,Technology,384.24,7,0.3,111.86
+467,ORD-100466,02-05-2022,Germany,EMEA,South,Furniture,570.13,6,0.1,130.08
+468,ORD-100467,03-10-2023,France,APAC,West,Office Supplies,295.9,5,0.1,44.29
+469,ORD-100468,13-12-2023,France,Europe,West,Office Supplies,301.94,6,0.3,-33.62
+470,ORD-100469,31-07-2023,United Kingdom,APAC,East,Furniture,54.21,5,0.5,4.73
+471,ORD-100470,26-11-2023,United States,Europe,South,Furniture,231.76,1,0.1,18.25
+472,ORD-100471,31-12-2023,Germany,EMEA,East,Technology,196.78,2,0.5,-6.77
+473,ORD-100472,09-10-2023,Australia,US,West,Furniture,255.6,5,0.1,2.2
+474,ORD-100473,02-04-2023,Australia,Europe,South,Technology,148.52,1,0.0,6.27
+475,ORD-100474,29-03-2023,United States,EMEA,East,Office Supplies,233.55,1,0.5,8.25
+476,ORD-100475,06-06-2022,United States,US,Central,Furniture,36.69,2,0.1,-2.21
+477,ORD-100476,10-10-2024,United Kingdom,US,Central,Furniture,42.71,6,0.5,5.7
+478,ORD-100477,26-04-2024,Germany,Europe,East,Furniture,102.35,2,0.5,26.82
+479,ORD-100478,17-03-2022,India,APAC,West,Office Supplies,136.03,5,0.2,15.69
+480,ORD-100479,17-07-2023,Australia,APAC,Central,Technology,104.72,6,0.1,14.7
+481,ORD-100480,26-08-2022,United States,APAC,South,Technology,154.78,5,0.1,-4.2
+482,ORD-100481,23-04-2023,United Kingdom,EMEA,West,Office Supplies,209.91,7,0.5,10.91
+483,ORD-100482,26-12-2023,Australia,EMEA,West,Technology,57.12,2,0.3,1.7
+484,ORD-100483,29-09-2023,France,APAC,West,Furniture,92.32,2,0.5,33.07
+485,ORD-100484,12-07-2022,United States,US,West,Office Supplies,85.67,3,0.2,2.14
+486,ORD-100485,23-02-2023,France,Europe,South,Furniture,104.71,4,0.0,21.79
+487,ORD-100486,03-05-2022,United States,US,East,Technology,217.9,5,0.1,22.04
+488,ORD-100487,,India,APAC,Central,Office Supplies,240.13,4,0.0,51.29
+489,ORD-100488,06-03-2023,France,APAC,Central,Office Supplies,73.11,6,0.3,27.49
+490,ORD-100489,02-05-2024,Canada,US,South,Technology,198.35,2,0.3,15.29
+491,ORD-100490,09-03-2024,Canada,US,Central,Furniture,323.2,1,0.3,36.48
+492,ORD-100491,10-06-2022,,EMEA,South,Technology,196.23,4,0.3,35.99
+493,ORD-100492,27-03-2022,United Kingdom,EMEA,South,Office Supplies,256.88,6,0.3,52.93
+494,ORD-100493,18-11-2022,United Kingdom,Europe,Central,Furniture,143.94,7,0.5,8.07
+495,ORD-100494,27-04-2023,Canada,Europe,Central,Technology,223.28,1,0.1,29.28
+496,ORD-100495,21-06-2022,France,Europe,West,Office Supplies,250.43,7,0.2,42.46
+497,ORD-100496,06-02-2022,Australia,Europe,East,Furniture,91.37,6,0.2,7.28
+498,ORD-100497,16-02-2022,India,US,South,Office Supplies,600.21,2,0.3,152.88
+499,ORD-100498,24-09-2022,United States,EMEA,South,Office Supplies,105.2,2,0.0,23.41
+500,ORD-100499,25-06-2022,Australia,US,East,Technology,51.25,4,0.5,7.72
+501,ORD-100500,03-08-2022,United States,EMEA,South,Technology,146.06,2,0.2,45.2
+502,ORD-100501,14-12-2023,Germany,EMEA,Central,Office Supplies,373.23,1,0.5,106.61
+503,ORD-100502,17-02-2022,Australia,APAC,South,Technology,416.51,2,0.0,92.19
+504,ORD-100503,11-05-2022,United States,US,West,Office Supplies,154.69,4,0.3,14.52
+505,ORD-100504,12-09-2023,Canada,APAC,East,Furniture,136.74,1,0.1,20.94
+506,ORD-100505,11-07-2023,United States,Europe,Central,Office Supplies,100.91,7,0.1,11.02
+507,ORD-100506,05-07-2023,United Kingdom,Europe,South,Furniture,134.98,1,0.5,3.54
+508,ORD-100507,27-11-2023,Australia,Europe,East,Furniture,258.64,5,0.3,57.66
+509,ORD-100508,18-06-2022,Canada,EMEA,East,Technology,231.58,5,0.0,2.97
+510,ORD-100509,04-05-2023,Germany,APAC,South,Furniture,72.88,2,0.1,6.83
+511,ORD-100510,26-04-2023,France,US,South,Office Supplies,193.42,3,0.0,-3.24
+512,ORD-100511,17-10-2022,Canada,Europe,West,Office Supplies,280.19,2,0.3,1.72
+513,ORD-100512,25-08-2024,Germany,Europe,West,Technology,142.3,3,0.0,8.35
+514,ORD-100513,27-06-2024,France,APAC,West,Technology,788.79,1,0.5,138.6
+515,ORD-100514,08-08-2023,India,APAC,Central,Technology,40.43,7,0.3,-1.37
+516,ORD-100515,07-02-2022,Germany,APAC,West,Technology,180.27,2,0.5,-12.65
+517,ORD-100516,09-04-2023,Australia,US,East,Technology,163.78,5,0.5,-5.51
+518,ORD-100517,12-05-2024,India,APAC,East,Office Supplies,32.51,5,0.1,7.9
+519,ORD-100518,20-06-2024,Germany,Europe,East,Furniture,198.86,3,0.1,7.63
+520,ORD-100519,12-08-2022,Germany,US,Central,Technology,142.94,4,0.1,1.74
+521,ORD-100520,24-05-2022,Germany,Europe,West,Office Supplies,512.26,1,0.3,65.5
+522,ORD-100521,05-01-2022,United Kingdom,EMEA,East,Office Supplies,112.25,4,0.2,-6.55
+523,ORD-100522,25-11-2022,United States,US,Central,Office Supplies,99.04,7,0.1,7.55
+524,ORD-100523,22-03-2022,United Kingdom,APAC,East,Technology,137.41,6,0.0,14.5
+525,ORD-100524,08-08-2022,Germany,APAC,Central,Furniture,151.13,7,0.5,1.26
+526,ORD-100525,19-01-2023,India,Europe,West,Furniture,182.82,7,0.0,5.87
+527,ORD-100526,20-03-2024,Germany,Europe,South,Office Supplies,643.94,6,0.5,-70.49
+528,ORD-100527,25-12-2024,United States,APAC,West,Office Supplies,119.58,4,0.1,5.83
+529,ORD-100528,13-03-2022,United States,EMEA,East,Furniture,746.8,6,0.2,-54.41
+530,ORD-100529,04-03-2023,India,APAC,South,Technology,115.98,6,0.0,2.96
+531,ORD-100530,19-09-2024,Australia,APAC,East,Furniture,50.37,6,0.3,24.34
+532,ORD-100531,20-05-2022,Germany,US,East,Office Supplies,92.01,5,0.2,4.54
+533,ORD-100532,11-05-2022,Canada,US,East,Office Supplies,113.29,7,0.5,19.06
+534,ORD-100533,20-10-2024,France,US,Central,Furniture,68.97,4,0.3,7.33
+535,ORD-100534,20-05-2022,Australia,APAC,West,Technology,144.12,3,0.3,26.84
+536,ORD-100535,24-06-2024,France,APAC,Central,Technology,102.51,4,0.5,5.69
+537,ORD-100536,23-06-2022,India,APAC,East,Technology,200.34,5,0.1,47.91
+538,ORD-100537,23-09-2024,United Kingdom,US,West,Technology,376.89,5,0.1,92.01
+539,ORD-100538,27-02-2023,France,Europe,East,Technology,125.77,4,0.3,14.34
+540,ORD-100539,08-09-2022,Germany,US,West,Technology,586.83,1,0.2,204.46
+541,ORD-100540,23-10-2024,Australia,US,West,Office Supplies,469.47,2,0.0,-8.38
+542,ORD-100541,16-10-2023,France,EMEA,South,Technology,203.26,2,0.5,62.17
+543,ORD-100542,10-03-2024,India,APAC,South,Furniture,100.46,1,0.1,12.08
+544,ORD-100543,25-03-2023,France,APAC,East,Furniture,110.6,7,0.1,5.97
+545,ORD-100544,07-09-2023,Canada,Europe,East,Furniture,138.94,3,0.0,29.38
+546,ORD-100545,27-06-2024,United Kingdom,Europe,Central,Furniture,288.89,7,0.3,2.97
+547,ORD-100546,27-02-2023,United Kingdom,EMEA,Central,Technology,19.78,2,0.0,5.14
+548,ORD-100547,16-03-2024,Australia,Europe,South,Technology,77.2,5,0.0,3.87
+549,ORD-100548,18-02-2023,United Kingdom,EMEA,South,Technology,59.01,2,0.3,6.88
+550,ORD-100549,24-11-2022,Germany,US,West,Office Supplies,265.35,4,0.0,-17.63
+551,ORD-100550,04-07-2023,Australia,Europe,South,Technology,223.0,3,0.3,39.42
+552,ORD-100551,01-07-2022,Canada,Europe,South,Furniture,93.27,1,0.2,23.86
+553,ORD-100552,18-12-2024,France,US,Central,Office Supplies,219.33,7,0.3,32.14
+554,ORD-100553,04-08-2023,United States,US,East,Office Supplies,43.38,3,0.1,10.21
+555,ORD-100554,17-10-2022,Canada,EMEA,South,Furniture,229.0,6,0.2,2.51
+556,ORD-100555,29-07-2023,France,APAC,East,Technology,136.12,6,0.2,13.32
+557,ORD-100556,08-05-2023,United Kingdom,US,Central,Furniture,121.5,2,0.0,36.67
+558,ORD-100557,31-10-2024,Germany,Europe,East,Technology,109.69,5,0.3,10.49
+559,ORD-100558,22-06-2023,India,Europe,West,Technology,319.09,2,0.5,64.23
+560,ORD-100559,25-01-2022,United States,EMEA,East,Technology,218.55,7,0.0,38.67
+561,ORD-100560,26-05-2024,Germany,US,East,Furniture,185.41,3,0.5,34.89
+562,ORD-100561,04-05-2022,Australia,US,West,Technology,643.23,6,0.0,1.21
+563,ORD-100562,12-04-2024,India,EMEA,Central,Technology,276.06,6,0.5,42.22
+564,ORD-100563,01-09-2024,Australia,US,East,Technology,672.18,4,0.2,184.61
+565,ORD-100564,19-03-2023,United States,Europe,East,Office Supplies,147.14,2,0.5,31.33
+566,ORD-100565,19-03-2023,Canada,Europe,Central,Technology,111.84,6,0.3,16.45
+567,ORD-100566,08-02-2023,Canada,APAC,South,Technology,151.44,2,0.1,3.73
+568,ORD-100567,10-05-2023,,US,South,Office Supplies,325.65,7,0.2,50.17
+569,ORD-100568,12-01-2023,Canada,US,West,Furniture,141.64,7,0.0,19.86
+570,ORD-100569,01-06-2022,India,APAC,West,Furniture,212.1,1,0.3,-13.08
+571,ORD-100570,30-05-2023,United States,APAC,West,Office Supplies,43.25,6,0.1,7.92
+572,ORD-100571,15-09-2022,United States,EMEA,South,Furniture,256.37,7,0.1,-4.45
+573,ORD-100572,24-10-2022,Germany,APAC,East,Technology,180.38,3,0.0,56.86
+574,ORD-100573,02-12-2024,France,APAC,South,Furniture,87.76,4,0.3,25.25
+575,ORD-100574,09-10-2023,France,Europe,West,Technology,,6,0.1,16.26
+576,ORD-100575,26-04-2022,United States,EMEA,South,Technology,196.51,2,0.5,32.77
+577,ORD-100576,31-03-2023,United States,APAC,West,Office Supplies,283.72,4,0.2,71.33
+578,ORD-100577,28-05-2022,United States,APAC,East,Furniture,249.4,5,0.1,83.52
+579,ORD-100578,10-11-2022,United Kingdom,EMEA,West,Office Supplies,357.99,5,0.5,140.1
+580,ORD-100579,09-03-2024,United States,APAC,East,Furniture,98.66,4,0.3,21.37
+581,ORD-100580,30-06-2022,Canada,EMEA,East,Furniture,101.19,7,0.0,9.48
+582,ORD-100581,16-01-2023,India,EMEA,Central,Office Supplies,196.09,7,0.2,60.54
+583,ORD-100582,06-10-2022,United Kingdom,EMEA,Central,Office Supplies,77.33,6,0.3,12.63
+584,ORD-100583,03-12-2022,India,US,East,Office Supplies,100.83,3,0.1,11.99
+585,ORD-100584,08-11-2022,France,Europe,West,Technology,60.53,6,0.1,7.2
+586,ORD-100585,08-01-2023,Canada,EMEA,West,Furniture,96.31,4,0.1,0.45
+587,ORD-100586,04-12-2024,India,EMEA,Central,Technology,348.68,6,0.2,125.75
+588,ORD-100587,23-03-2022,India,Europe,West,Office Supplies,314.32,2,0.1,97.28
+589,ORD-100588,28-08-2024,Canada,US,South,Office Supplies,292.6,3,0.0,80.92
+590,ORD-100589,23-12-2022,Australia,EMEA,South,Office Supplies,152.65,7,0.0,25.38
+591,ORD-100590,16-03-2023,Germany,Europe,West,Technology,48.07,6,0.2,-2.32
+592,ORD-100591,17-02-2023,India,APAC,South,Office Supplies,117.3,1,0.1,17.27
+593,ORD-100592,03-03-2022,United States,EMEA,East,Technology,103.33,7,0.5,16.78
+594,ORD-100593,28-07-2024,India,Europe,Central,Furniture,254.79,7,0.5,14.4
+595,ORD-100594,19-04-2023,Germany,Europe,Central,Furniture,258.07,5,0.5,34.24
+596,ORD-100595,17-05-2022,Germany,APAC,Central,Furniture,145.08,7,0.3,37.86
+597,ORD-100596,23-07-2022,United States,Europe,West,Office Supplies,115.86,7,0.5,-2.16
+598,ORD-100597,10-03-2023,Australia,Europe,South,Office Supplies,335.22,2,0.0,73.57
+599,ORD-100598,11-06-2024,United States,Europe,Central,Office Supplies,556.4,6,0.1,25.93
+600,ORD-100599,23-12-2024,United States,EMEA,Central,Furniture,98.27,7,0.0,20.62
+601,ORD-100600,06-10-2022,France,US,West,Technology,305.76,2,0.1,36.09
+602,ORD-100601,25-07-2024,Germany,US,West,Technology,199.48,2,0.3,-7.1
+603,ORD-100602,01-10-2024,United Kingdom,APAC,East,Technology,161.91,2,0.0,32.49
+604,ORD-100603,23-02-2023,Canada,Europe,East,Technology,355.47,7,0.3,110.32
+605,ORD-100604,04-03-2022,Germany,EMEA,Central,Furniture,102.25,7,0.1,9.61
+606,ORD-100605,17-11-2023,India,US,East,Furniture,384.27,7,0.5,9.61
+607,ORD-100606,14-01-2024,Germany,US,West,Technology,51.36,1,0.1,4.69
+608,ORD-100607,02-03-2024,,APAC,West,Technology,39.26,7,0.0,5.53
+609,ORD-100608,20-09-2023,United Kingdom,APAC,West,Furniture,23.98,3,0.2,7.12
+610,ORD-100609,24-09-2022,United Kingdom,Europe,South,Technology,301.92,1,0.3,12.37
+611,ORD-100610,10-02-2023,United States,EMEA,Central,Furniture,376.84,7,0.2,18.18
+612,ORD-100611,27-02-2023,India,Europe,West,Technology,252.7,5,0.2,20.18
+613,ORD-100612,01-02-2022,India,EMEA,East,Office Supplies,78.53,5,0.3,-5.77
+614,ORD-100613,21-01-2022,United Kingdom,EMEA,East,Office Supplies,145.48,1,0.5,6.01
+615,ORD-100614,12-01-2024,Germany,EMEA,Central,Office Supplies,164.37,4,0.3,-1.08
+616,ORD-100615,17-08-2024,Canada,Europe,Central,Furniture,58.19,4,0.5,13.09
+617,ORD-100616,10-05-2024,United States,EMEA,West,Technology,272.42,3,0.3,47.56
+618,ORD-100617,15-05-2023,Australia,Europe,West,Furniture,213.84,1,0.1,34.99
+619,ORD-100618,14-08-2024,Australia,EMEA,East,Technology,204.73,4,0.2,30.86
+620,ORD-100619,12-07-2024,Germany,Europe,Central,Technology,160.94,2,0.5,15.68
+621,ORD-100620,15-07-2023,United Kingdom,EMEA,East,Furniture,360.73,7,0.3,53.55
+622,ORD-100621,15-10-2022,France,APAC,Central,Technology,155.0,3,0.3,20.97
+623,ORD-100622,17-05-2022,Australia,APAC,West,Technology,136.88,1,0.2,2.79
+624,ORD-100623,04-12-2022,Canada,Europe,East,Office Supplies,74.07,6,0.2,17.28
+625,ORD-100624,20-05-2024,Canada,US,South,Technology,173.36,7,0.3,24.7
+626,ORD-100625,30-11-2022,United Kingdom,Europe,East,Furniture,298.62,1,0.0,23.38
+627,ORD-100626,26-11-2024,India,APAC,South,Office Supplies,,6,0.3,-2.86
+628,ORD-100627,12-02-2023,United States,Europe,West,Furniture,,4,0.3,-5.48
+629,ORD-100628,17-02-2023,United States,EMEA,East,Furniture,156.35,4,0.3,18.31
+630,ORD-100629,22-10-2022,Canada,APAC,East,Furniture,508.7,2,0.5,29.59
+631,ORD-100630,22-04-2022,Germany,Europe,West,Furniture,342.48,5,0.1,12.34
+632,ORD-100631,25-06-2024,Germany,EMEA,Central,Office Supplies,196.07,3,0.2,-14.96
+633,ORD-100632,27-04-2022,India,US,Central,Office Supplies,111.34,2,0.2,7.16
+634,ORD-100633,09-06-2023,Germany,EMEA,East,Office Supplies,126.8,7,0.0,28.87
+635,ORD-100634,14-09-2023,Canada,APAC,South,Furniture,166.89,3,0.2,41.36
+636,ORD-100635,13-01-2023,Germany,Europe,Central,Furniture,199.97,7,0.0,-21.81
+637,ORD-100636,12-04-2022,Canada,APAC,Central,Furniture,113.52,1,0.0,21.97
+638,ORD-100637,15-08-2024,United States,EMEA,Central,Office Supplies,183.08,4,0.2,46.9
+639,ORD-100638,03-05-2023,Germany,Europe,East,Technology,587.07,5,0.1,78.45
+640,ORD-100639,07-10-2023,Germany,EMEA,East,Furniture,96.36,4,0.5,17.92
+641,ORD-100640,19-06-2023,Australia,Europe,Central,Furniture,471.53,2,0.0,50.53
+642,ORD-100641,05-03-2022,France,APAC,West,Office Supplies,305.41,2,0.3,18.28
+643,ORD-100642,24-11-2024,Canada,US,East,Furniture,322.59,6,0.5,37.42
+644,ORD-100643,22-06-2022,United Kingdom,EMEA,Central,Office Supplies,98.43,6,0.2,11.97
+645,ORD-100644,19-06-2023,United Kingdom,APAC,West,Technology,75.12,4,0.5,2.87
+646,ORD-100645,06-07-2022,Australia,EMEA,South,Furniture,93.74,2,0.1,23.77
+647,ORD-100646,22-05-2022,France,US,South,Office Supplies,326.72,6,0.3,38.32
+648,ORD-100647,31-08-2022,Canada,APAC,Central,Technology,60.98,5,0.1,15.48
+649,ORD-100648,02-05-2024,Germany,APAC,Central,Office Supplies,31.21,2,0.1,-0.18
+650,ORD-100649,12-02-2022,Australia,Europe,West,Office Supplies,631.51,3,0.2,36.93
+651,ORD-100650,14-10-2023,France,Europe,East,Furniture,39.75,3,0.1,3.92
+652,ORD-100651,18-06-2024,Australia,Europe,South,Furniture,97.4,2,0.2,16.42
+653,ORD-100652,30-09-2024,France,US,West,Office Supplies,38.95,4,0.3,4.41
+654,ORD-100653,02-10-2023,Australia,APAC,West,Furniture,414.3,4,0.5,24.88
+655,ORD-100654,31-03-2024,France,Europe,South,Office Supplies,57.09,4,0.0,8.92
+656,ORD-100655,21-02-2022,United States,APAC,West,Technology,270.15,7,0.2,4.98
+657,ORD-100656,23-01-2023,Australia,APAC,South,Furniture,76.21,3,0.2,10.56
+658,ORD-100657,24-04-2023,United States,Europe,South,Furniture,186.95,1,0.2,-5.59
+659,ORD-100658,06-05-2024,Germany,APAC,Central,Furniture,202.42,4,0.1,69.28
+660,ORD-100659,29-04-2022,France,US,West,Technology,230.92,3,0.2,65.73
+661,ORD-100660,17-11-2022,India,US,East,Office Supplies,240.2,7,0.2,27.82
+662,ORD-100661,03-08-2023,Germany,EMEA,West,Technology,454.55,2,0.3,84.14
+663,ORD-100662,17-07-2023,India,Europe,East,Furniture,200.16,2,0.0,50.39
+664,ORD-100663,18-03-2023,Australia,APAC,South,Furniture,101.97,1,0.1,15.33
+665,ORD-100664,17-10-2022,Australia,US,Central,Furniture,,7,0.2,16.24
+666,ORD-100665,15-11-2022,India,Europe,Central,Furniture,,4,0.2,89.48
+667,ORD-100666,02-06-2023,Canada,EMEA,Central,Technology,175.71,6,0.2,19.49
+668,ORD-100667,16-09-2023,United States,EMEA,Central,Technology,152.14,4,0.2,9.37
+669,ORD-100668,21-11-2022,Canada,Europe,South,Furniture,68.8,6,0.5,11.59
+670,ORD-100669,04-11-2024,Canada,US,Central,Furniture,451.85,7,0.2,166.8
+671,ORD-100670,23-10-2023,France,EMEA,Central,Furniture,92.43,4,0.5,31.39
+672,ORD-100671,07-09-2022,Germany,US,West,Furniture,42.56,6,0.5,2.37
+673,ORD-100672,24-03-2023,Germany,US,East,Office Supplies,328.67,6,0.5,27.59
+674,ORD-100673,04-07-2024,Germany,EMEA,East,Office Supplies,69.24,4,0.0,11.4
+675,ORD-100674,14-09-2022,Australia,EMEA,South,Furniture,269.25,6,0.0,42.68
+676,ORD-100675,24-08-2024,Canada,US,West,Office Supplies,320.25,5,0.2,-5.69
+677,ORD-100676,18-12-2024,United States,US,Central,Office Supplies,199.87,6,0.5,36.27
+678,ORD-100677,15-01-2022,United States,APAC,Central,Office Supplies,272.09,6,0.0,78.37
+679,ORD-100678,31-03-2024,Australia,APAC,South,Furniture,226.72,2,0.1,50.88
+680,ORD-100679,05-08-2022,Canada,US,East,Technology,102.91,2,0.0,-3.3
+681,ORD-100680,12-10-2023,France,US,East,Technology,395.22,1,0.0,-33.0
+682,ORD-100681,08-05-2023,France,US,South,Furniture,563.49,5,0.2,104.3
+683,ORD-100682,01-03-2024,France,APAC,Central,Office Supplies,82.17,5,0.5,17.77
+684,ORD-100683,01-07-2024,Canada,EMEA,Central,Office Supplies,433.11,1,0.5,78.56
+685,ORD-100684,12-08-2022,Australia,Europe,East,Office Supplies,295.53,4,0.0,59.1
+686,ORD-100685,17-07-2022,Australia,Europe,East,Technology,443.0,4,0.1,71.94
+687,ORD-100686,12-08-2022,Australia,APAC,East,Technology,163.1,7,0.2,-8.53
+688,ORD-100687,30-05-2022,France,Europe,East,Furniture,380.62,5,0.1,66.52
+689,ORD-100688,11-02-2023,Canada,EMEA,East,Office Supplies,123.63,1,0.3,26.77
+690,ORD-100689,15-07-2022,Australia,Europe,East,Office Supplies,140.18,7,0.3,7.23
+691,ORD-100690,16-11-2023,Germany,EMEA,East,Office Supplies,132.63,5,0.0,-15.17
+692,ORD-100691,11-12-2022,United States,Europe,South,Technology,128.74,5,0.0,19.44
+693,ORD-100692,13-07-2024,United States,EMEA,East,Technology,75.51,5,0.3,14.82
+694,ORD-100693,28-11-2022,United Kingdom,US,East,Office Supplies,251.22,7,0.5,38.46
+695,ORD-100694,04-03-2022,Canada,US,South,Furniture,200.95,6,0.2,30.28
+696,ORD-100695,09-06-2022,Canada,US,West,Office Supplies,322.35,3,0.2,1.16
+697,ORD-100696,22-04-2023,India,Europe,South,Office Supplies,122.85,5,0.5,20.1
+698,ORD-100697,11-01-2023,France,APAC,West,Furniture,103.89,1,0.5,21.98
+699,ORD-100698,30-03-2022,Germany,EMEA,West,Furniture,75.29,5,0.3,-6.82
+700,ORD-100699,10-08-2023,United Kingdom,APAC,Central,Furniture,120.61,5,0.5,21.48
+701,ORD-100700,07-01-2024,France,APAC,Central,Technology,29.17,1,0.3,3.78
+702,ORD-100701,04-11-2022,France,APAC,South,Furniture,189.61,5,0.1,38.79
+703,ORD-100702,14-09-2022,United Kingdom,EMEA,West,Office Supplies,85.53,5,0.3,22.48
+704,ORD-100703,29-07-2024,France,Europe,Central,Furniture,614.06,2,0.5,30.65
+705,ORD-100704,20-12-2024,India,Europe,Central,Furniture,25.85,6,0.0,6.27
+706,ORD-100705,19-08-2024,Canada,APAC,South,Office Supplies,141.02,2,0.1,9.87
+707,ORD-100706,17-09-2024,United Kingdom,Europe,Central,Furniture,177.2,5,0.1,-15.47
+708,ORD-100707,13-11-2023,Germany,Europe,East,Office Supplies,70.93,4,0.1,1.51
+709,ORD-100708,11-11-2023,India,EMEA,Central,Office Supplies,137.19,5,0.2,40.58
+710,ORD-100709,04-10-2022,United Kingdom,APAC,South,Office Supplies,234.17,2,0.1,25.42
+711,ORD-100710,07-10-2024,United States,Europe,East,Furniture,151.77,6,0.5,11.57
+712,ORD-100711,22-02-2022,United Kingdom,APAC,West,Furniture,111.23,3,0.3,5.98
+713,ORD-100712,22-03-2023,India,US,Central,Furniture,109.52,7,0.1,23.3
+714,ORD-100713,04-09-2024,Germany,APAC,West,Office Supplies,136.56,2,0.0,-13.27
+715,ORD-100714,24-07-2023,Canada,Europe,Central,Office Supplies,578.74,7,0.1,61.98
+716,ORD-100715,13-11-2024,United States,Europe,East,Furniture,245.31,3,0.0,25.35
+717,ORD-100716,30-11-2023,United States,Europe,South,Technology,74.74,7,0.2,13.2
+718,ORD-100717,20-11-2023,United States,US,East,Technology,121.41,6,0.2,28.28
+719,ORD-100718,08-08-2022,India,Europe,South,Office Supplies,103.88,6,0.3,22.61
+720,ORD-100719,17-05-2024,Canada,Europe,Central,Furniture,397.12,4,0.0,49.33
+721,ORD-100720,14-11-2022,United States,EMEA,South,Furniture,247.87,5,0.3,9.59
+722,ORD-100721,09-01-2024,Germany,Europe,Central,Office Supplies,225.51,5,0.5,20.54
+723,ORD-100722,21-01-2022,France,US,East,Office Supplies,46.71,7,0.0,3.78
+724,ORD-100723,09-12-2024,United States,US,East,Furniture,317.38,7,0.0,91.17
+725,ORD-100724,23-11-2023,United States,APAC,Central,Furniture,126.43,6,0.2,2.47
+726,ORD-100725,03-12-2022,United Kingdom,EMEA,East,Office Supplies,85.6,5,0.3,11.37
+727,ORD-100726,24-09-2022,Canada,Europe,Central,Furniture,155.06,6,0.5,-0.63
+728,ORD-100727,01-03-2024,France,EMEA,South,Technology,445.33,2,0.2,-6.54
+729,ORD-100728,06-04-2023,France,EMEA,East,Furniture,91.28,6,0.1,24.84
+730,ORD-100729,19-02-2022,India,Europe,South,Furniture,61.08,1,0.5,11.61
+731,ORD-100730,22-12-2022,France,US,Central,Office Supplies,888.77,4,0.3,121.24
+732,ORD-100731,21-08-2022,Germany,Europe,South,Office Supplies,276.92,5,0.2,-7.54
+733,ORD-100732,07-06-2022,Australia,APAC,Central,Technology,169.22,2,0.1,-5.7
+734,ORD-100733,08-10-2024,Australia,Europe,Central,Technology,117.29,6,0.2,12.19
+735,ORD-100734,16-07-2024,United Kingdom,APAC,East,Office Supplies,36.6,2,0.2,11.3
+736,ORD-100735,,United Kingdom,APAC,East,Technology,61.92,7,0.5,5.97
+737,ORD-100736,22-10-2024,United States,APAC,East,Furniture,820.29,7,0.1,168.05
+738,ORD-100737,07-04-2022,United Kingdom,EMEA,East,Office Supplies,100.51,4,0.5,12.61
+739,ORD-100738,28-05-2023,France,US,South,Technology,167.74,7,0.2,-21.07
+740,ORD-100739,01-10-2024,Australia,Europe,West,Technology,444.7,5,0.5,27.3
+741,ORD-100740,03-10-2024,Germany,US,West,Furniture,220.9,2,0.3,18.2
+742,ORD-100741,30-01-2022,Canada,US,South,Furniture,73.25,3,0.5,12.3
+743,ORD-100742,14-02-2024,India,EMEA,West,Office Supplies,245.05,3,0.2,16.05
+744,ORD-100743,20-08-2024,France,Europe,South,Furniture,71.21,3,0.0,26.59
+745,ORD-100744,07-05-2024,Canada,APAC,East,Technology,33.78,6,0.5,-0.54
+746,ORD-100745,08-07-2023,France,EMEA,East,Furniture,373.0,5,0.5,-17.47
+747,ORD-100746,27-06-2024,France,Europe,West,Technology,265.93,2,0.3,2.32
+748,ORD-100747,04-02-2023,Canada,EMEA,Central,Technology,169.06,1,0.2,28.24
+749,ORD-100748,11-09-2024,Australia,EMEA,West,Office Supplies,168.95,4,0.3,44.62
+750,ORD-100749,30-07-2022,United States,APAC,South,Office Supplies,368.69,7,0.0,18.71
+751,ORD-100750,02-10-2022,France,Europe,South,Furniture,171.2,1,0.0,-23.22
+752,ORD-100751,01-04-2023,United States,EMEA,West,Office Supplies,304.91,4,0.5,88.14
+753,ORD-100752,08-12-2024,France,US,South,Office Supplies,190.71,5,0.1,-14.99
+754,ORD-100753,05-03-2022,Australia,Europe,South,Furniture,249.85,2,0.0,5.04
+755,ORD-100754,21-05-2024,United Kingdom,Europe,West,Technology,194.68,1,0.2,21.53
+756,ORD-100755,10-05-2023,France,US,East,Furniture,193.62,4,0.1,28.96
+757,ORD-100756,19-02-2023,Canada,APAC,East,Technology,511.5,7,0.5,180.79
+758,ORD-100757,11-04-2023,United Kingdom,APAC,West,Furniture,388.69,2,0.1,71.41
+759,ORD-100758,27-12-2024,Germany,APAC,Central,Furniture,97.91,1,0.0,21.5
+760,ORD-100759,03-07-2022,France,Europe,West,Office Supplies,471.05,7,0.3,150.33
+761,ORD-100760,04-06-2024,India,EMEA,West,Furniture,80.57,4,0.3,33.02
+762,ORD-100761,18-09-2022,United Kingdom,US,Central,Furniture,79.35,5,0.0,13.94
+763,ORD-100762,20-07-2023,Germany,EMEA,Central,Technology,112.42,3,0.0,3.7
+764,ORD-100763,05-02-2024,India,US,East,Office Supplies,157.18,5,0.0,-0.52
+765,ORD-100764,06-05-2022,United States,APAC,South,Furniture,242.49,4,0.5,46.25
+766,ORD-100765,27-12-2024,Australia,EMEA,West,Technology,388.4,1,0.0,86.1
+767,ORD-100766,22-08-2024,United States,EMEA,East,Office Supplies,103.3,3,0.3,9.73
+768,ORD-100767,07-12-2023,United Kingdom,APAC,East,Furniture,197.1,1,0.3,14.61
+769,ORD-100768,03-02-2023,Australia,APAC,South,Furniture,113.63,4,0.5,9.44
+770,ORD-100769,03-06-2023,United States,Europe,East,Furniture,134.06,6,0.5,35.08
+771,ORD-100770,08-08-2023,Germany,APAC,West,Furniture,232.97,7,0.2,-7.4
+772,ORD-100771,30-01-2022,United States,Europe,West,Office Supplies,156.62,1,0.3,12.02
+773,ORD-100772,12-05-2024,India,APAC,South,Technology,120.02,4,0.0,11.72
+774,ORD-100773,11-04-2024,United States,APAC,South,Technology,55.44,6,0.1,1.4
+775,ORD-100774,07-06-2023,Canada,Europe,South,Furniture,278.29,4,0.0,31.37
+776,ORD-100775,10-03-2024,India,Europe,East,Office Supplies,223.32,5,0.2,19.32
+777,ORD-100776,12-06-2024,France,US,South,Furniture,50.66,5,0.1,-0.33
+778,ORD-100777,29-01-2022,France,EMEA,Central,Office Supplies,86.56,1,0.1,11.54
+779,ORD-100778,31-08-2024,Germany,Europe,East,Technology,520.89,6,0.0,83.85
+780,ORD-100779,16-08-2024,,APAC,South,Technology,266.94,1,0.1,58.24
+781,ORD-100780,24-10-2023,France,Europe,East,Technology,526.2,4,0.3,84.48
+782,ORD-100781,17-06-2022,Canada,EMEA,South,Furniture,252.09,3,0.5,24.99
+783,ORD-100782,29-04-2023,United States,APAC,Central,Furniture,241.65,2,0.3,16.32
+784,ORD-100783,26-05-2023,United Kingdom,US,South,Technology,222.66,7,0.5,30.9
+785,ORD-100784,15-07-2022,United States,EMEA,East,Technology,40.31,6,0.0,5.52
+786,ORD-100785,20-04-2022,United Kingdom,APAC,East,Furniture,210.71,7,0.5,31.47
+787,ORD-100786,23-04-2023,France,Europe,South,Technology,63.44,6,0.1,14.0
+788,ORD-100787,16-06-2024,United Kingdom,Europe,South,Technology,184.35,5,0.2,39.56
+789,ORD-100788,11-08-2022,United Kingdom,Europe,West,Office Supplies,44.97,7,0.5,6.52
+790,ORD-100789,10-07-2022,United Kingdom,US,South,Furniture,177.01,4,0.2,49.91
+791,ORD-100790,05-12-2024,Australia,APAC,South,Technology,205.37,2,0.0,45.86
+792,ORD-100791,02-08-2023,Germany,Europe,West,Office Supplies,429.9,7,0.3,127.76
+793,ORD-100792,16-09-2024,United Kingdom,APAC,Central,Furniture,93.45,1,0.3,10.29
+794,ORD-100793,14-04-2023,Canada,EMEA,South,Technology,235.12,6,0.1,78.94
+795,ORD-100794,24-09-2024,Canada,Europe,South,Office Supplies,205.0,4,0.1,13.58
+796,ORD-100795,04-04-2023,United Kingdom,APAC,Central,Furniture,192.1,4,0.5,29.86
+797,ORD-100796,11-03-2024,India,APAC,South,Office Supplies,88.38,4,0.3,4.97
+798,ORD-100797,08-09-2023,United Kingdom,EMEA,Central,Technology,114.62,2,0.2,8.31
+799,ORD-100798,02-06-2023,Australia,APAC,South,Technology,104.16,6,0.5,24.76
+800,ORD-100799,23-08-2022,India,Europe,West,Technology,478.06,6,0.0,84.53
+801,ORD-100800,03-09-2024,India,US,West,Technology,108.09,5,0.2,13.88
+802,ORD-100801,29-04-2022,Germany,EMEA,South,Technology,303.89,6,0.5,21.87
+803,ORD-100802,29-10-2024,India,US,South,Office Supplies,250.22,6,0.5,-15.59
+804,ORD-100803,21-10-2023,United Kingdom,US,South,Technology,397.53,2,0.0,20.77
+805,ORD-100804,12-11-2022,Australia,EMEA,South,Technology,110.93,1,0.2,6.23
+806,ORD-100805,14-06-2022,United Kingdom,EMEA,East,Technology,745.3,7,0.3,231.63
+807,ORD-100806,17-11-2022,United Kingdom,US,West,Office Supplies,83.78,5,0.0,10.05
+808,ORD-100807,10-01-2024,Germany,US,Central,Furniture,185.28,5,0.0,16.3
+809,ORD-100808,09-06-2023,United Kingdom,Europe,East,Office Supplies,285.13,6,0.5,42.13
+810,ORD-100809,25-05-2022,Germany,Europe,South,Technology,157.08,2,0.5,16.79
+811,ORD-100810,05-11-2023,United Kingdom,EMEA,South,Technology,529.32,1,0.1,105.85
+812,ORD-100811,16-11-2024,Australia,Europe,Central,Technology,223.34,2,0.3,6.48
+813,ORD-100812,04-06-2024,India,APAC,West,Office Supplies,306.5,2,0.1,-30.72
+814,ORD-100813,02-12-2022,Germany,US,East,Furniture,229.32,3,0.0,31.02
+815,ORD-100814,30-12-2024,United States,US,Central,Office Supplies,74.62,5,0.5,9.09
+816,ORD-100815,24-08-2024,Canada,EMEA,South,Technology,83.11,6,0.5,27.41
+817,ORD-100816,17-11-2022,France,EMEA,South,Furniture,334.82,3,0.5,53.49
+818,ORD-100817,04-03-2024,United Kingdom,US,Central,Technology,413.57,6,0.0,37.92
+819,ORD-100818,28-10-2023,United States,Europe,West,Technology,139.16,2,0.3,27.65
+820,ORD-100819,07-01-2024,Australia,Europe,South,Office Supplies,156.57,4,0.1,15.12
+821,ORD-100820,24-03-2023,France,APAC,West,Office Supplies,76.04,6,0.1,10.83
+822,ORD-100821,29-10-2023,Canada,APAC,South,Technology,114.84,3,0.2,23.28
+823,ORD-100822,26-11-2024,India,US,West,Office Supplies,352.44,1,0.1,40.2
+824,ORD-100823,10-11-2023,United States,EMEA,South,Furniture,89.03,5,0.0,-3.34
+825,ORD-100824,19-12-2024,Germany,Europe,East,Technology,41.59,2,0.3,7.49
+826,ORD-100825,27-09-2023,Canada,US,Central,Technology,224.76,7,0.3,50.93
+827,ORD-100826,25-04-2024,Australia,US,Central,Technology,424.08,7,0.3,15.6
+828,ORD-100827,04-06-2024,Germany,US,South,Office Supplies,299.08,5,0.1,50.94
+829,ORD-100828,30-07-2024,France,Europe,South,Office Supplies,334.13,2,0.0,57.74
+830,ORD-100829,30-10-2022,United States,US,East,Technology,235.02,5,0.3,-11.41
+831,ORD-100830,05-07-2022,United States,APAC,West,Technology,471.3,7,0.0,113.83
+832,ORD-100831,20-06-2024,India,APAC,West,Technology,163.39,5,0.3,15.37
+833,ORD-100832,24-10-2022,,APAC,West,Technology,204.5,7,0.3,5.4
+834,ORD-100833,26-02-2024,France,APAC,South,Office Supplies,284.92,2,0.1,83.89
+835,ORD-100834,,United States,APAC,Central,Office Supplies,233.61,3,0.0,12.09
+836,ORD-100835,22-08-2024,Canada,Europe,South,Office Supplies,88.88,6,0.5,12.75
+837,ORD-100836,24-10-2023,India,EMEA,Central,Office Supplies,189.86,3,0.5,24.98
+838,ORD-100837,28-10-2024,Germany,Europe,Central,Furniture,352.65,3,0.5,24.31
+839,ORD-100838,13-02-2023,India,EMEA,South,Office Supplies,456.48,6,0.2,53.68
+840,ORD-100839,15-01-2023,France,EMEA,West,Technology,23.55,2,0.5,1.25
+841,ORD-100840,18-10-2022,United States,Europe,West,Furniture,188.53,3,0.3,21.48
+842,ORD-100841,20-12-2023,Canada,EMEA,East,Technology,167.58,5,0.1,11.17
+843,ORD-100842,28-12-2022,United States,Europe,South,Technology,91.75,1,0.0,10.85
+844,ORD-100843,29-10-2023,India,EMEA,South,Furniture,396.4,2,0.1,-25.88
+845,ORD-100844,06-11-2024,United Kingdom,EMEA,Central,Technology,49.67,7,0.2,-3.68
+846,ORD-100845,02-04-2023,Germany,Europe,West,Technology,86.73,4,0.1,14.7
+847,ORD-100846,11-12-2024,United States,APAC,West,Furniture,468.22,6,0.3,13.94
+848,ORD-100847,07-04-2022,France,Europe,East,Furniture,408.64,1,0.3,47.14
+849,ORD-100848,23-01-2023,Germany,EMEA,South,Office Supplies,227.34,6,0.2,43.8
+850,ORD-100849,27-04-2022,Germany,APAC,East,Furniture,208.77,5,0.1,52.15
+851,ORD-100850,03-03-2023,Germany,EMEA,Central,Furniture,77.93,5,0.3,15.69
+852,ORD-100851,05-02-2024,Australia,Europe,Central,Office Supplies,170.84,2,0.1,18.42
+853,ORD-100852,10-08-2022,United States,APAC,South,Furniture,382.75,4,0.3,66.18
+854,ORD-100853,,United Kingdom,APAC,South,Office Supplies,421.74,7,0.1,-15.52
+855,ORD-100854,16-12-2023,France,US,Central,Technology,186.34,4,0.5,36.37
+856,ORD-100855,25-03-2022,United States,Europe,Central,Technology,490.11,4,0.1,24.43
+857,ORD-100856,19-07-2023,United States,APAC,East,Office Supplies,150.3,5,0.3,17.41
+858,ORD-100857,08-02-2022,Australia,APAC,Central,Technology,116.06,6,0.3,-8.9
+859,ORD-100858,31-12-2024,United States,EMEA,West,Technology,88.13,4,0.2,28.86
+860,ORD-100859,13-06-2022,,EMEA,South,Office Supplies,135.2,6,0.1,21.29
+861,ORD-100860,29-06-2022,India,Europe,Central,Technology,208.51,1,0.3,40.6
+862,ORD-100861,25-08-2023,United Kingdom,Europe,Central,Furniture,440.52,3,0.0,23.85
+863,ORD-100862,14-04-2023,Canada,US,East,Technology,181.51,3,0.0,37.91
+864,ORD-100863,09-02-2022,United States,US,South,Furniture,113.79,2,0.3,13.99
+865,ORD-100864,23-12-2022,United Kingdom,EMEA,East,Office Supplies,128.14,1,0.1,13.99
+866,ORD-100865,29-10-2023,Australia,EMEA,West,Furniture,267.33,2,0.0,11.34
+867,ORD-100866,02-04-2023,France,US,South,Office Supplies,382.51,1,0.5,-34.38
+868,ORD-100867,25-11-2023,Germany,US,East,Office Supplies,205.17,6,0.3,37.08
+869,ORD-100868,09-02-2023,United Kingdom,Europe,East,Office Supplies,279.01,7,0.5,51.89
+870,ORD-100869,27-11-2022,United Kingdom,APAC,West,Office Supplies,163.95,5,0.5,47.72
+871,ORD-100870,02-11-2023,France,APAC,South,Technology,214.27,7,0.5,-10.04
+872,ORD-100871,29-11-2022,United States,EMEA,Central,Technology,392.7,2,0.0,111.08
+873,ORD-100872,12-10-2023,Canada,Europe,East,Technology,214.36,1,0.0,-9.98
+874,ORD-100873,25-06-2024,Australia,EMEA,East,Technology,773.22,6,0.1,-39.69
+875,ORD-100874,24-07-2023,United Kingdom,EMEA,South,Office Supplies,250.51,6,0.3,21.25
+876,ORD-100875,15-01-2023,Canada,Europe,Central,Office Supplies,115.02,7,0.3,-2.29
+877,ORD-100876,04-09-2023,United States,APAC,East,Furniture,272.37,1,0.0,51.51
+878,ORD-100877,11-05-2024,India,Europe,South,Technology,293.09,2,0.1,18.58
+879,ORD-100878,03-11-2022,Canada,APAC,West,Furniture,192.01,6,0.5,25.69
+880,ORD-100879,03-06-2023,France,US,East,Furniture,255.19,2,0.5,30.88
+881,ORD-100880,,United States,US,Central,Technology,578.52,4,0.3,58.65
+882,ORD-100881,24-08-2022,Australia,EMEA,West,Office Supplies,76.2,3,0.5,-3.86
+883,ORD-100882,05-03-2024,Canada,US,Central,Technology,112.99,1,0.1,24.41
+884,ORD-100883,28-09-2024,Canada,Europe,South,Office Supplies,445.81,5,0.5,36.49
+885,ORD-100884,22-03-2022,United States,Europe,East,Office Supplies,112.65,7,0.5,16.82
+886,ORD-100885,13-04-2022,France,Europe,West,Office Supplies,225.41,4,0.1,35.85
+887,ORD-100886,15-05-2023,Germany,EMEA,South,Furniture,314.39,6,0.5,-0.51
+888,ORD-100887,02-05-2022,United States,US,South,Office Supplies,70.68,2,0.0,0.08
+889,ORD-100888,09-06-2022,Canada,US,East,Technology,405.01,1,0.2,69.28
+890,ORD-100889,15-10-2024,Germany,EMEA,Central,Furniture,438.19,7,0.1,75.59
+891,ORD-100890,17-07-2022,France,US,West,Technology,146.85,5,0.1,24.69
+892,ORD-100891,18-12-2024,Canada,Europe,West,Technology,40.28,3,0.2,6.69
+893,ORD-100892,18-07-2023,United States,EMEA,West,Office Supplies,155.1,5,0.5,43.77
+894,ORD-100893,24-11-2024,Canada,EMEA,West,Technology,134.92,7,0.2,-1.8
+895,ORD-100894,15-08-2024,Australia,APAC,West,Office Supplies,283.22,7,0.5,67.85
+896,ORD-100895,21-04-2022,India,EMEA,West,Office Supplies,388.56,1,0.0,4.12
+897,ORD-100896,27-06-2023,India,EMEA,South,Technology,53.94,7,0.3,5.6
+898,ORD-100897,19-06-2024,Germany,APAC,South,Office Supplies,177.98,5,0.3,9.84
+899,ORD-100898,04-08-2024,India,APAC,West,Office Supplies,154.12,2,0.0,25.71
+900,ORD-100899,12-09-2024,United Kingdom,Europe,East,Office Supplies,173.3,1,0.5,-6.23
+11,ORD-100010,18-08-2022,Australia,APAC,East,Technology,374.09,3,0.5,87.73
+26,ORD-100025,06-10-2024,India,US,East,Technology,320.39,7,0.5,54.92
+101,ORD-100100,01-04-2023,Germany,EMEA,West,Office Supplies,299.11,5,0.2,81.88
